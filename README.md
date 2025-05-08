@@ -45,9 +45,9 @@ Users must register and receive approval from the admin before accessing the por
 ---
 
 ## 🛠 Tech Stack
-- Frontend: HTML, CSS, JavaScript
+- Frontend: Angular
 - Backend: Node.js
-- Database: MySQL / PostgreSQL
+- Database: MySQL
 - Tools: Git, IDE (VS Code)
 
 ---
