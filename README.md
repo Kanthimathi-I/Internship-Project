@@ -41,6 +41,7 @@ Users must register and receive approval from the admin before accessing the por
 
 ## 📄 Project Report  
 [👉 Click here to view the Project Report (PDF)](https://github.com/Kanthimathi-I/Internship-Project/blob/main/Intern%20Project%20%40Brimma%20Tech.pdf)
+> ⚠️ _If it doesn't open, try incognito mode or another browser._
 
 ---
 
