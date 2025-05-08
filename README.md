@@ -40,7 +40,7 @@ Users must register and receive approval from the admin before accessing the por
 ---
 
 ## 📄 Project Report  
-[👉 Click here to view the Project Report (PDF)](https://github.com/yourusername/repo-name/blob/main/Intern_Project_Report.pdf)
+[👉 Click here to view the Project Report (PDF)](https://github.com/Kanthimathi-I/Internship-Project/blob/main/Internship%20Project.pdf)
 
 ---
 
